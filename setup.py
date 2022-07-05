@@ -10,9 +10,9 @@ from pathlib import Path
 name = "djangorestframework-serializer-extensions"
 package = "rest_framework_serializer_extensions"
 description = "Extensions to DRY up Django Rest Framework serializers"
-url = "https://github.com/evenicoulddoit/django-rest-framework-serializer-extensions"
-author = "Ian Clark"
-author_email = "dev@ianclark.me"
+url = "https://github.com/HousekeepLtd/django-rest-framework-serializer-extensions"
+author = "Ian Clark @ Housekeep Ltd"
+author_email = "tech@housekeep.com"
 license = "BSD"
 long_description_content_type = "text/markdown"
 

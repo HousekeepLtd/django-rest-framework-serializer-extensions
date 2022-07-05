@@ -15,4 +15,4 @@ To contribute to Serializer Extensions, please:
   that your work fixes
 
 
-[github]: https://github.com/evenicoulddoit/django-rest-framework-serializer-extensions
+[github]: https://github.com/HousekeepLtd/django-rest-framework-serializer-extensions
