@@ -33,7 +33,9 @@ class OwnerTestSerializer(ExtensionsModelSerializer):
     class Meta:
         model = models.Owner
         fields = ("id", "name")
-        expandable_fields = dict(organization=OrganizationTestSerializer,)
+        expandable_fields = dict(
+            organization=OrganizationTestSerializer,
+        )
 
 
 class OwnerAPITestView(SerializerExtensionsAPIViewMixin, RetrieveAPIView):

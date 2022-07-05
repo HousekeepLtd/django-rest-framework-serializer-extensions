@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import re
 import os
+import re
 import sys
-from setuptools import setup
 from pathlib import Path
 
+from setuptools import setup
 
 name = "djangorestframework-serializer-extensions"
 package = "rest_framework_serializer_extensions"
