@@ -24,11 +24,12 @@ API, we suggest you consider switching to HashIds instead.
 ## Requirements
 Tested against:
 
-* Python (3.6, 3.7, 3.8)
-* [Django](https://github.com/django/django) (2.1, 2.2, 3.0)
+* Python (3.7, 3.8, 3.9)
+* [Django](https://github.com/django/django) (2.2, 3.2, 4.0)
 * [Django REST Framework](https://github.com/tomchristie/django-rest-framework) (3.9, 3.10, 3.11)
 * [HashIds](https://github.com/davidaurelio/hashids-python) (>1.0)
 
+Not all combinations supported and tested for, check tox.ini for more details.
 
 ## Installation
 Install using `pip`:
