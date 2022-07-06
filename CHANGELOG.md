@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Drops `mock` dependency, in favour of `unittest.mock`
 ### Added
 * Confirmed support for Django 3.2 and 4.0
-* Confirmed support for Python 3.9
+* Confirmed support for Python 3.9, 3.10
 ### Dropped
 * Dropped tested support of Django 3.0
 * Dropped tested support of Python 3.6
