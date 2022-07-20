@@ -125,7 +125,7 @@ class RelatedMatcher(object):
         """
         Mark the given field and related name as being to select.
 
-        If the field is expandable, attempt to resolve it's matchers too.
+        If the field is expandable, attempt to resolve its matchers too.
         """
         child_matcher = RelatedMatcher(field, related_name, parent=self)
         self.child_selects.append(child_matcher)

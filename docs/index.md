@@ -5,11 +5,11 @@
     serializers
   </strong>
   <div class="index__badges">
-    <a href="https://github.com/evenicoulddoit/django-rest-framework-serializer-extensions/actions/workflows/test.yml?query=branch%3Amaster">
-      <img src="https://github.com/evenicoulddoit/django-rest-framework-serializer-extensions/actions/workflows/test.yml/badge.svg?branch=master">
+    <a href="https://github.com/HousekeepLtd/django-rest-framework-serializer-extensions/actions/workflows/test.yml?query=branch%3Amaster">
+      <img src="https://github.com/HousekeepLtd/django-rest-framework-serializer-extensions/actions/workflows/test.yml/badge.svg?branch=master">
     </a>
-    <a href="http://codecov.io/github/evenicoulddoit/django-rest-framework-serializer-extensions?branch=master">
-      <img src="https://img.shields.io/codecov/c/github/evenicoulddoit/django-rest-framework-serializer-extensions/master.svg">
+    <a href="http://codecov.io/github/HousekeepLtd/django-rest-framework-serializer-extensions?branch=master">
+      <img src="https://img.shields.io/codecov/c/github/HousekeepLtd/django-rest-framework-serializer-extensions/master.svg">
     </a>
     <a href="https://pypi.python.org/pypi/djangorestframework-serializer-extensions">
       <img src="https://img.shields.io/pypi/v/djangorestframework-serializer-extensions.svg">

@@ -1,18 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import re
 import os
+import re
 import sys
-from setuptools import setup
 from pathlib import Path
 
+from setuptools import setup
 
 name = "djangorestframework-serializer-extensions"
 package = "rest_framework_serializer_extensions"
 description = "Extensions to DRY up Django Rest Framework serializers"
-url = "https://github.com/evenicoulddoit/django-rest-framework-serializer-extensions"
-author = "Ian Clark"
-author_email = "dev@ianclark.me"
+url = "https://github.com/HousekeepLtd/django-rest-framework-serializer-extensions"
+author = "Ian Clark @ Housekeep Ltd"
+author_email = "tech@housekeep.com"
 license = "BSD"
 long_description_content_type = "text/markdown"
 
@@ -126,9 +126,10 @@ setup(
         "Operating System :: OS Independent",
         "Natural Language :: English",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
         "Topic :: Internet :: WWW/HTTP",
     ],
 )
