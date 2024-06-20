@@ -25,7 +25,7 @@ class ModelTestSerializer(ExtensionsModelSerializer):
             manufacturer=ManufacturerTestSerializer,
             skus=dict(
                 serializer="tests.serializers.SkuTestSerializer", many=True
-            )
+            ),
         )
 
 
