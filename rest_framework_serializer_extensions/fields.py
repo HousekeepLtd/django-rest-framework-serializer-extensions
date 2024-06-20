@@ -54,7 +54,7 @@ class HashIdField(GetHashIdModelMixin, Field):
     """
 
     default_error_messages = {
-        "malformed_hash_id": "That is not a valid HashId",
+        "malformed_hash_id": "That is not a valid HashId"
     }
 
     def to_representation(self, value):

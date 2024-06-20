@@ -61,10 +61,7 @@ def pytest_configure():
     except ImportError:
         pass
     else:
-        settings.INSTALLED_APPS += (
-            "provider",
-            "provider.oauth2",
-        )
+        settings.INSTALLED_APPS += ("provider", "provider.oauth2")
 
     # guardian is optional
     try:

@@ -6,5 +6,5 @@ urlpatterns = [
         r"^models/(?P<external_id>\w+)/$",
         TemplateView.as_view(template_name="index.html"),
         name="car_model",
-    ),
+    )
 ]

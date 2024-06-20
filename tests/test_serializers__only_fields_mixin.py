@@ -114,7 +114,7 @@ class OnlyFieldsSerializerMixinTests(SerializerMixinTestCase):
                                     id=self.organization_ecorp.pk,
                                     name=self.organization_ecorp.name,
                                 ),
-                            ),
+                            )
                         ],
                     ),
                     dict(
