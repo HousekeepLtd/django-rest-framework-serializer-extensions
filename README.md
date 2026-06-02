@@ -24,9 +24,9 @@ API, we suggest you consider switching to HashIds instead.
 ## Requirements
 Tested against:
 
-* Python (3.7, 3.8, 3.9, 3.10)
-* [Django](https://github.com/django/django) (2.2, 3.2, 4.0)
-* [Django REST Framework](https://github.com/tomchristie/django-rest-framework) (3.9, 3.10, 3.11)
+* Python (3.9, 3.10, 3.11, 3.12, 3.13)
+* [Django](https://github.com/django/django) (4.2, 5.0, 5.2)
+* [Django REST Framework](https://github.com/tomchristie/django-rest-framework) (3.14, 3.15, 3.16)
 * [HashIds](https://github.com/davidaurelio/hashids-python) (>1.0)
 
 Not all combinations supported and tested for, check tox.ini for more details.
