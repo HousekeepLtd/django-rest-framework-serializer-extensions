@@ -13,8 +13,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     breaking the suite on Python 3.12+)
 ### Removed
 * Removed support for Django 3.2
-* Removed support for Django REST Framework 3.12/3.13
+* Removed support for Django REST Framework 3.12 and 3.13
 * Removed support for Python 3.8
+
+
+## [4.0.0] - 2024-06-20
+### Added
+* Support for Django 4.2 and 5.0
+* Support for Django REST Framework 3.14 and 3.15
+* Support for Python 3.11, 3.12
+### Removed
+* Removed support for Django 2.2 and 4.0
+* Removed support for Django REST Framework 3.9, 3.10 and 3.11
+* Removed support for Python 3.7
 
 
 ## [3.0.0] - 2022-07-01
