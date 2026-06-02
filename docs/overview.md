@@ -11,7 +11,7 @@ API, we suggest you consider switching to HashIDs instead.
 
 
 ## Requirements
-* Python (3.9, 3.10, 3.11, 3.12, 3.13)
+* Python (3.10, 3.11, 3.12, 3.13)
 * [Django](https://github.com/django/django) (4.2, 5.0, 5.2)
 * [Django REST Framework](https://github.com/tomchristie/django-rest-framework) (3.14, 3.15, 3.16). Note Django REST Framework 3.16 is the first version to
   officially support Django 5.2.

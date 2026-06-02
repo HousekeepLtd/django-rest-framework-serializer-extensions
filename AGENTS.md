@@ -102,10 +102,10 @@ The library is four modules under `rest_framework_serializer_extensions/`:
 
 ## Version / CI matrix
 
-Supported (see `tox.ini`): Python 3.9–3.13, Django 4.2 / 5.0 / 5.2, DRF
+Supported (see `tox.ini`): Python 3.10–3.13, Django 4.2 / 5.0 / 5.2, DRF
 3.14 / 3.15 / 3.16. `__version__` lives in
-`rest_framework_serializer_extensions/__init__.py`; bump it and convert the
-`## [Unreleased]` CHANGELOG heading to a dated version before creating a tag.
+`rest_framework_serializer_extensions/__init__.py`; bump it and add a dated
+CHANGELOG entry before creating a tag.
 
 ## Docs
 
