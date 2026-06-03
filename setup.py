@@ -10,7 +10,10 @@ from setuptools import setup
 name = "djangorestframework-serializer-extensions"
 package = "rest_framework_serializer_extensions"
 description = "Extensions to DRY up Django Rest Framework serializers"
-url = "https://github.com/HousekeepLtd/django-rest-framework-serializer-extensions"
+url = (
+    "https://github.com/HousekeepLtd/"
+    "django-rest-framework-serializer-extensions"
+)
 author = "Ian Clark @ Housekeep Ltd"
 author_email = "tech@housekeep.com"
 license = "BSD"
@@ -126,11 +129,10 @@ setup(
         "Operating System :: OS Independent",
         "Natural Language :: English",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.8",
-        "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
         "Programming Language :: Python :: 3.12",
+        "Programming Language :: Python :: 3.13",
         "Topic :: Internet :: WWW/HTTP",
     ],
 )

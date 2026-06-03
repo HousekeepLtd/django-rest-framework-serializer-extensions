@@ -1,9 +1,9 @@
 # Test requirements
 # Note: These packages are stored outside of the setup.py, to maintain a
 # single source of truth, and allow the extras to be installed in isolation.
-django-test-plus==2.2.0
-Django>=3.2,<5.1
-djangorestframework>=3.12
+django-test-plus==2.4.1
+Django>=4.2,<5.3
+djangorestframework>=3.14
 pytest-cov==4.1.0
 pytest-django==4.8.0
 pytest==8.0.0
